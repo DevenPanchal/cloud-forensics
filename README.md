@@ -22,7 +22,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2022a). Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines using Acumos. Unpublished manuscript.
+Panchal, D. (2022a). MLOps: Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines using Acumos. Unpublished manuscript.
 ```
 and
 ```

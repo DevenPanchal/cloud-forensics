@@ -6,7 +6,7 @@ If you refer to this ML model, please cite the below.
 ```
 @unpublished{p3,
   author = "Deven Panchal",
-  title  = "Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines using Acumos",
+  title  = "MLOps: Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines using Acumos",
   year   = 2022
 }
 ```

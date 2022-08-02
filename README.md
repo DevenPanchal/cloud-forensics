@@ -6,7 +6,7 @@ If you refer to this ML model, please cite the below.
 ```
 @unpublished{p3,
   author = "Deven Panchal",
-  title  = "MLOps: Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines using Acumos",
+  title  = "MLOps: Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines",
   year   = 2022
 }
 ```
@@ -22,7 +22,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2022a). MLOps: Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines using Acumos. Unpublished manuscript.
+Panchal, D. (2022a). MLOps: Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines. Unpublished manuscript.
 ```
 and
 ```

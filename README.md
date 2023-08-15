@@ -5,7 +5,7 @@ If you refer to this ML model, please cite the below.
 ### Bibtex:
 ```
 @unpublished{p3,
-  author = "Deven Panchal",
+  author = "Deven Panchal and Isilay Baran and Dan Musgrove and David Lu",
   title  = "MLOps: Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines",
   year   = 2023
 }
@@ -22,7 +22,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2023a). MLOps: Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines. Unpublished manuscript.
+Panchal, D., Baran, I., Musgrove, D., & Lu, D. (2023). MLOps: Automatic, Zero-touch and Reusable Machine Learning Training and Serving Pipelines. Unpublished manuscript.
 ```
 and
 ```
